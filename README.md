@@ -1,6 +1,10 @@
 # forwomenday
 
 ## Project setup
+
+```git clone https://github.com/wolfiton/forwomenday.git```
+
+
 ```
 yarn install
 ```
