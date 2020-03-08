@@ -3,7 +3,7 @@
     <div class="hero-body">
       <div class="container">
         <h1 class="title">
-          For women day
+          For Women Day
         </h1>
         <h2 class="subtitle has-text-weight-semibold">
           Would you like to introduce yourself? becauese I would like to wish
